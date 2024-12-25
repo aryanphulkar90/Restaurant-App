@@ -1,0 +1,82 @@
+{
+    "info": {
+        "id": "8787",
+        "name": "Subway",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/4d98ef74-bce5-4442-9a99-6bc74d9458bd_8787.JPG",
+        "locality": "Sainikpuri Rd",
+        "areaName": "Sainikpuri",
+        "costForTwo": "₹350 for two",
+        "cuisines": [
+            "sandwich",
+            "Salads",
+            "wrap",
+            "Healthy Food"
+        ],
+        "avgRating": 4.2,
+        "parentId": "2",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "28K+",
+        "sla": {
+            "deliveryTime": 30,
+            "lastMileTravel": 6,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25-30 mins",
+            "lastMileTravelString": "6.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-12-25 00:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Salad.png",
+                    "description": "Delivery!"
+                }
+            ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "Delivery!",
+                                "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Salad.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-f562679b-2bbb-40f1-b445-2412187a0b3e"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/city/hyderabad/subway-rd-sainikpuri-rest8787",
+        "type": "WEBLINK"
+    }
+}
